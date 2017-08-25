@@ -11,7 +11,7 @@ FROM
 JOIN
   temp.ooziewrapper_example_sas sas
 ON
-  pnp.letter = sas.letter
+  pnp.letter = sas.letter;
 
 DROP TABLE temp.ooziewrapper_example_pnp PURGE;
 DROP TABLE temp.ooziewrapper_example_sas PURGE;
