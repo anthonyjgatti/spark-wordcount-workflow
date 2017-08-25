@@ -8,11 +8,11 @@ This workflow uses text from Jane Austen's books _Pride and Prejudice_ and _Sens
 and Sensibility_ to go through the following steps:
 
 1. Spark:
-  a. Perform word count in Spark on _Pride and Prejudice_.
-  b. Perform word count in Spark on _Sense and Sensibility_.
+  * Perform word count in Spark on _Pride and Prejudice_.
+  * Perform word count in Spark on _Sense and Sensibility_.
 2. Hive:
-  a. Calculate the frequency of first letters in _Pride and Prejudice_.
-  b. Calculate the frequency of first letters in _Sense and Sensibility_.
+  * Calculate the frequency of first letters in _Pride and Prejudice_.
+  * Calculate the frequency of first letters in _Sense and Sensibility_.
 3. Join these pieces of information together into a single table.
 
 Please note, of course this is not meant to be a real big data use case; rather
