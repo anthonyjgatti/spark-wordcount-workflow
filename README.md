@@ -19,4 +19,3 @@ Please note, of course this is not meant to be a real big data use case; rather
 it serves as an example for the `ooziewrapper` package.
 
 Thanks!
-- Anthony
